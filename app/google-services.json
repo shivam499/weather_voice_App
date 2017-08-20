@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "270325139940",
+    "firebase_url": "https://weatherreportupdate.firebaseio.com",
+    "project_id": "weatherreportupdate",
+    "storage_bucket": "weatherreportupdate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270325139940:android:3a2ca045be106d01",
+        "android_client_info": {
+          "package_name": "com.pathantalabs.weatherreportupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270325139940-g0g1l4amimhl8iapd4hp7km5qkurdcu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pathantalabs.weatherreportupdate",
+            "certificate_hash": "b4ee5fd807509e014a7e384bdb7bea243cb18f12"
+          }
+        },
+        {
+          "client_id": "270325139940-72hbtk677rpt4n2jibk9nofcm7bj7vs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pathantalabs.weatherreportupdate",
+            "certificate_hash": "0ec8aa223737fe400f9dbb7bca3bd7e81aa3b600"
+          }
+        },
+        {
+          "client_id": "270325139940-c4u1hh6531hjtkpmv1t5fpfvkre89djn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pathantalabs.weatherreportupdate",
+            "certificate_hash": "3313879131f52c18c8f5b2e7933d7ce80082ec2b"
+          }
+        },
+        {
+          "client_id": "270325139940-i3e0n6o8u86ha32bao28c6t7tocdboin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoDiJZy8CUC6mOg9mK98zbFPC3gHrAk4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270325139940-i3e0n6o8u86ha32bao28c6t7tocdboin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

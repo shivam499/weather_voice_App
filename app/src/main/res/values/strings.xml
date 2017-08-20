@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Weather Voice Report</string>
+    <string name="image_weathericon">Image_weatherIcon</string>
+    <string name="more_details">More Details</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="no_internet_connection_available">No Internet Connection Available</string>
+    <string name="about">About</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="tell_a_friend">Tell a Friend</string>
+
+    <string name="native_ad_Unit_Id">ca-app-pub-4550578723880227/6498114195</string>
+    <string name="interst_ad_Unit_Id">ca-app-pub-4550578723880227/7974847392</string>
+    <string name="app_Id"> ca-app-pub-4550578723880227~3544647792</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="temp_c_to_f">Change °C ⇌ °F</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="mic_button">mic Button</string>
+    <string name="tts_button">tts Button</string>
+    <string name="search_city">search City</string>
+    <string name="share_button">Share Button</string>
+    <string name="refresh">refresh</string>
+    <string name="sunriseWarning">* The Sunrise and Sunset is only Correct in User\'s Current Location TimeZone. </string>
+    <string name="home">Home</string>
+
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="search_by_name">Search by Name</string>
+    <string name="search_by_voice">Search by Voice</string>
+    <string name="communication">Communication</string>
+    <string name="listen_weather_report">Listen Weather Report</string>
+    <string name="share_current_weather">Share Current Weather</string>
+    <string name="mail_to_developer">Mail to developer</string>
+
+</resources>

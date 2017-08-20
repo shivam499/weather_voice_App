@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single" android:orderInCategory="100">
+
+        <item
+            android:id="@+id/searchName"
+            android:orderInCategory="200"
+            android:title="@string/search_by_name"
+            />
+        <item
+            android:id="@+id/searchVoice"
+            android:orderInCategory="300"
+            android:title="@string/search_by_voice"
+            />
+        <item
+            android:id="@+id/listenWeather"
+            android:orderInCategory="500"
+            android:title="@string/listen_weather_report" />
+        <item
+            android:id="@+id/changeTemp"
+            android:orderInCategory="600"
+            android:title="@string/temp_c_to_f"
+            app:showAsAction="never" />
+
+    </group>
+
+    <item android:title="@string/communication" android:orderInCategory="600">
+
+        <menu>
+            <item
+                android:id="@+id/shareweather"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_share"
+                android:title="@string/share_current_weather"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/rateNow"
+                android:orderInCategory="200"
+                android:title="@string/rate_us"
+                android:icon="@drawable/ic_rate"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/about"
+                android:orderInCategory="300"
+                android:title="@string/about"
+                android:icon="@drawable/ic_about"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/share_App"
+                android:orderInCategory="400"
+                android:icon="@drawable/ic_share_friend"
+                android:title="@string/tell_a_friend"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/contactUs"
+                android:orderInCategory="500"
+                android:icon="@drawable/ic_mail"
+                android:title="@string/mail_to_developer"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+</menu>
